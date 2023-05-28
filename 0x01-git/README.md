@@ -1,1 +1,1 @@
-second read me
+my second directory
